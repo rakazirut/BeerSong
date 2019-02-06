@@ -26,5 +26,5 @@ class Ninety_Nine_Bottles_Of_Beer
 end
 # Main Script
 CONSOLE_SCREEN = Screen.new
-THE_SONG = Song.new
+THE_SONG = Ninety_Nine_Bottles_Of_Beer.new
 THE_SONG.song
